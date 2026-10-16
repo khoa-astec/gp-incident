@@ -1,0 +1,8 @@
+{
+  "name": "gp-incident",
+  "version": "0.1.0",
+  "description": "Root-cause a production incident ticket end to end: read the ticket, gather read-only evidence (DB, object storage, CDN, app logs, APM/RUM), size the impact, and draft a plain-language ticket comment.",
+  "author": { "name": "khoa-astec" },
+  "repository": "https://github.com/khoa-astec/gp-incident",
+  "keywords": ["incident", "root-cause", "operations", "laravel", "aws"]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "gp-incident",
+  "owner": { "name": "khoa-astec" },
+  "metadata": {
+    "description": "Incident root-cause skill for Claude Code",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "gp-incident",
+      "source": "./",
+      "description": "Root-cause a production incident ticket with read-only evidence and draft a plain-language comment",
+      "version": "0.1.0"
+    }
+  ]
+}
